@@ -90,7 +90,7 @@
   
   <!--buttonback-->
   <div class="container" style="margin: 100px">
-    <a href="/home" class="text-center"><h4 style="color: #114672" class="">back</h4></a>
+    <a href="/" class="text-center"><h4 style="color: #114672" class="">back</h4></a>
   </div>
 
   @endsection

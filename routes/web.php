@@ -15,12 +15,12 @@ use App\Models\post;
 |
 */
 
-Route::get('/', function () {
+Route::get('/home', function () {
     return view('home');
 });
 
 
-Route::get('/home', function () {
+Route::get('/', function () {
     return view('beranda', [
         'title' => 'utama',
         'arfah' => 'Muh. Arfah Awaluddin T.',

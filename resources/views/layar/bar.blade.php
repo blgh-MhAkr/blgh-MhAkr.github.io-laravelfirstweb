@@ -16,7 +16,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark" 
     style="background-image: linear-gradient(to right, #4682B4, #00FFFF, #00FA9A)">
         <div class="container">
-          <a class="navbar-brand" href="/home"> Universitas Negeri Makassar</a>
+          <a class="navbar-brand" href="/"> Universitas Negeri Makassar</a>
 
           <!-- button di navbar -->
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -63,7 +63,7 @@
         <div class="container">
           <div class="row text-center justify-content-center">
             <div class="col-8">
-              <a href="/">laravel</a>
+              <a href="/home">laravel</a>
             </div>
           </div>
           <div class="row justify-content-center" style="color: aliceblue">
